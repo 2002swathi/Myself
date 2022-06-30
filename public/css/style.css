@@ -1,0 +1,119 @@
+html{
+  overflow-x: hidden;
+}
+/*navbar*/
+.navbar{
+  background-color:#F2D1D1;
+}
+.navbar-nav{
+  padding-left: 90%;
+  font-family: sans-serif;
+}
+.nav-item{
+  padding: 0px -10px;
+}
+.navbar-toggler
+{
+  opacity: 1;
+}
+.navbar-dark .navbar-brand {
+    color:#C70A80 ;
+}
+/*myself*/
+.myself{
+  background-color:#F2D1D1;
+  font-family: 'Tiro Kannada', serif;
+  color:#C70A80;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.photo{
+  border-radius: 50%;
+}
+/*skill*/
+.heading{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.container{
+  margin-left:250px;
+  padding-bottom: 20px;
+}
+.code{
+  border-radius: 50%;
+  width: 20%;
+}
+.s:hover{
+  transform:scale(2);
+}
+/*hobby*/
+.head{
+  background-color: #F2D1D1;
+  text-align: center;
+  padding-bottom: 10px;
+  color:#C70A80 ;
+  padding-top:10px;
+}
+.hobby{
+  background-color: #F2D1D1;
+}
+.carousel{
+  background-color: #F2D1D1;
+  height: 710px;
+}
+.carousel-item{
+  margin-left:25%;
+}
+.carousel-caption{
+  margin-top: 40%;
+  margin-right:25%;
+  color:#C70A80 ;
+}
+.book{
+  height: 500px;
+  width:600px;
+}
+.glass{
+  height: 510px;
+  width:600px;
+}
+.t{
+  padding-right: 325px;
+}
+.text{
+ padding-right: 340px;
+ height: 340px;
+ text-align: center;
+}
+.sub-head{
+    padding-right: 340px;
+    height: 320px;
+    text-align: center;
+}
+.sub-heads{
+  width:220px;
+  height: 320px;
+}
+.d-block{
+  height: 500px;
+}
+/*education*/
+.edu{
+  padding-top: 10px;
+}
+/*contact*/
+.contact{
+  text-align: center;
+  padding-top: 20px;
+  height:150px;
+}
+
+/*certificate*/
+#cer{
+  background-color: #F2D1D1;
+  text-align: center;
+  padding-bottom: 10px;
+  color:#C70A80 ;
+  padding-top:10px;
+  height:150px;
+}
