@@ -3,7 +3,7 @@ html{
 }
 /*navbar*/
 .navbar{
-  background-color:#F2D1D1;
+  background-color:black;
 }
 .navbar-nav{
   padding-left: 90%;
@@ -19,101 +19,126 @@ html{
 .navbar-dark .navbar-brand {
     color:#C70A80 ;
 }
-/*myself*/
+/*myself 100px*/
 .myself{
-  background-color:#F2D1D1;
+  background-color:black;
   font-family: 'Tiro Kannada', serif;
-  color:#C70A80;
-  text-align: center;
+  color:white;
   font-size: 1.5rem;
 }
 .photo{
-  border-radius: 50%;
+  border-radius: 100%;
+  width: 100px;
+  margin-left: 100px;
+  float:left;
+}
+/*profile  */
+.profile{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 220px;
+  width: 600px;
 }
 /*skill*/
+#ab{
+  background-color: black;
+  height: 300px;
+}
 .heading{
-  text-align: center;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-left: 620px;
+  text-align: 500px;
+  color: white;
 }
-.container{
-  margin-left:250px;
-  padding-bottom: 20px;
+.card{
+  margin-top: 50px;
+  margin-left: 50px;
 }
-.code{
-  border-radius: 50%;
-  width: 20%;
+#card2{
+  margin-top: -122px;
+  margin-left: 350px;
 }
-.s:hover{
-  transform:scale(2);
+#card3{
+  margin-top: -122px;
+  margin-left: 650px;
 }
-/*hobby*/
-.head{
-  background-color: #F2D1D1;
-  text-align: center;
-  padding-bottom: 10px;
-  color:#C70A80 ;
-  padding-top:10px;
-}
-.hobby{
-  background-color: #F2D1D1;
-}
-.carousel{
-  background-color: #F2D1D1;
-  height: 710px;
-}
-.carousel-item{
-  margin-left:25%;
-}
-.carousel-caption{
-  margin-top: 40%;
-  margin-right:25%;
-  color:#C70A80 ;
-}
-.book{
-  height: 500px;
-  width:600px;
-}
-.glass{
-  height: 510px;
-  width:600px;
-}
-.t{
-  padding-right: 325px;
-}
-.text{
- padding-right: 340px;
- height: 340px;
- text-align: center;
-}
-.sub-head{
-    padding-right: 340px;
-    height: 320px;
-    text-align: center;
-}
-.sub-heads{
-  width:220px;
-  height: 320px;
-}
-.d-block{
-  height: 500px;
+#card4{
+  margin-top: -122px;
+  margin-left: 950px;
 }
 /*education*/
-.edu{
-  padding-top: 10px;
+.heading2{
+  margin-left: 580px;
+  margin-top: 20px;
 }
-/*contact*/
-.contact{
-  text-align: center;
-  padding-top: 20px;
-  height:150px;
+.table{
+ margin-left: 50px;
 }
 
-/*certificate*/
-#cer{
-  background-color: #F2D1D1;
+/*lang*/
+.lang{
+  background-color:black;
+  height: 220px;
+
+}
+.heading3{
+  padding-top: 30px;
+  margin-left:520px;
+  color: white;
+}
+ul{
+  color: white;
+}
+.li{
+  margin-left: 700px;
+}
+.li2{
+  margin-left: 600px;
+  margin-top: -23px;
+}
+.li3{
+  margin-left: 500px;
+  margin-top: -23px;
+}
+.li4{
+  margin-left: 550px;
+  margin-top: 53px;
+}
+.li5{
+  margin-left: 650px;
+  margin-top: -23px;
+}
+
+/*course */
+.table2{
+  margin-left: 0px;
+}
+.col2{
+  width:216px;
+}
+
+/*experience*/
+.exp{
+  background-color: black;
   text-align: center;
-  padding-bottom: 10px;
-  color:#C70A80 ;
-  padding-top:10px;
-  height:150px;
+  color: white;
+  padding-top: 20px;
+  height: 340px;
+  
+}
+
+/*project*/
+.proj{
+  text-align: center;
+}
+#projs{
+  margin-left: 490px;
+  margin-bottom: 100px;
+}
+
+/*contact*/
+.con{
+  padding-top: 20px;
+  background-color: black;
+  color: white;
+  height:250px
 }
